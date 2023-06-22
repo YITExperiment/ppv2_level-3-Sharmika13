@@ -1,7 +1,5 @@
 import turtle as t                                                              
 
-
-            
 def rectangle(horizontal,vertical,color):
     t.pendown()
     t.pensize(1)
